@@ -1,15 +1,9 @@
+
 .container {
     text-align: center;
     margin-top: 100px;
   }
-  
-  .wheel {
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-    border-radius: 50%;
-    margin: 0 auto;
-  }
+
   
   button {
     margin-top: 20px;
@@ -20,3 +14,17 @@
     margin-top: 20px;
   }
   
+body {
+  background-color: #299516; 
+}
+
+
+.dice {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.dice img {
+  width: 200px;
+  height: auto; 
+}
